@@ -1,0 +1,9 @@
+.canvas-wrap {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.canvas-wrap canvas {
+  margin: 20px 0;
+  border: 1px solid #ddd;
+}
